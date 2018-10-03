@@ -3,14 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-<<<<<<< HEAD
   production: false
-=======
-  production: false,
-  firebase: {
-
-  }
->>>>>>> e20262d... remove firebase stuff
 };
 
 /*
